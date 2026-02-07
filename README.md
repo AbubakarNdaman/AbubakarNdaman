@@ -1,16 +1,55 @@
-## Hi there 👋
+👋 Hi, I'm Ndaman Abubakar
 
-<!--
-**AbubakarNdaman/AbubakarNdaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in Digital Urban Studies with a research focus on transport accessibility, spatial equity, and climate-resilient urban mobility.
 
-Here are some ideas to get you started:
+My Master's thesis examines transport network resilience and accessibility under climate stressors using Python-based spatial analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines GIS, network analysis, and data-driven modelling to support transport planning and policy decisions, particularly in data-scarce cities.
+
+**Research Interests**
+
+Transport accessibility and equity
+
+GIS-based network analysis
+
+Climate impacts on transport systems
+
+Demand-responsive transport (DRT)
+
+Urban data science and spatial modelling
+
+**Research Tools & Methods**
+
+Python (GeoPandas, OSMnx, NetworkX, Pandas)
+
+GIS & spatial analysis (network-based and accessibility modelling)
+
+OpenStreetMap (OSM)
+
+Accessibility metrics
+
+Climate datasets (CHIRPS, ERA5, NASA POWER)
+
+**Featured Research Repositories**
+
+Transport Accessibility & Transit Deserts
+
+Climate-Weighted Transport Network Analysis
+
+Urban GIS & Spatial Modelling Notebooks
+
+(See pinned repositories below ⬇️)
+
+**Academic Background**
+
+MSc Digital Urban Studies — ITMO University
+
+Coursework: Transport Planning, Urban Data Science, Spatial Analysis, Machine Learning, GIS
+
+Research interests aligned with sustainable transport, accessibility, and equity
+
+**Contact**
+
+GitHub: https://github.com/AbubakarNdaman
+
+Email: ndamanabubakar10@gmail.com
