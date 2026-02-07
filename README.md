@@ -1,4 +1,4 @@
-👋 Hi, I'm Ndaman Abubakar
+👋 Hi, I'm Abubakar Ndaman
 
 I am a Master's student in Digital Urban Studies with a research focus on transport accessibility, spatial equity, and climate-resilient urban mobility.
 
