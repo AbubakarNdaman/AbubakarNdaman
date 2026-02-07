@@ -38,15 +38,11 @@ Climate-Weighted Transport Network Analysis
 
 Urban GIS & Spatial Modelling Notebooks
 
-(See pinned repositories below ⬇️)
-
 **Academic Background**
 
 MSc Digital Urban Studies — ITMO University
 
 Coursework: Transport Planning, Urban Data Science, Spatial Analysis, Machine Learning, GIS
-
-Research interests aligned with sustainable transport, accessibility, and equity
 
 **Contact**
 
